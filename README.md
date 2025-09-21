@@ -10,6 +10,7 @@ Money Control – bu foydalanuvchilarga o‘z daromad va xarajatlarini boshqaris
 - 🔒 **Ma’lumotlar xavfsizligi** – barcha foydalanuvchi ma’lumotlari himoyalangan  
 
 ## 🛠️ Texnologiyalar
+- [Postman](https://documenter.getpostman.com/view/47089154/2sB3HtFHEa)
 - [Python 3.12+](https://www.python.org/)  
 - [Django 5](https://www.djangoproject.com/)  
 - [Django REST Framework](https://www.django-rest-framework.org/)  
